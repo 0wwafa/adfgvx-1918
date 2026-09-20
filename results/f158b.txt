@@ -1,0 +1,4 @@
+### variant len 231
+  Nov7-9     -6.7243 26:-1 187:-4 221:-3 | ?i2klrzhoxbuluyggxm2husssee7nueucllk2b54efkc0qrd5hti0butlasderatd0pkzhjo4th4ngsekosesl1eairuenxeundtxs4w0xfxqdt
+  Nov7-9     -6.7256 26:-1 189:-4 221:-3 | ?i2klrzhoxbuluyggxm2husssee7nueucllk2b54efkc0qrd5hti0butlasderatd0pkzhjo4th4nlsekosesl1lairuenxeundtxs4w0xfxqdt
+  Nov7-9     -6.7331 18:+2 60:+4 136:+2 | bu2grr?hfthxlegg5qhretsoheg2jx?bc2lkeni4?yk2rxla5f?r0beq205x?waee2r?ssgf4dh43?zt2tsuw0ygsiewendeneaddq4h0eqndq?8x?gxwxq

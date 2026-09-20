@@ -1,0 +1,96 @@
+===== p152 104
+  Sep19-21   -6.6968 [(93, 4), (18, 1), (64, 2), (55, -2), (66, 1), (77, -1)] t?dixg240mx7?d2zr2?0330?j?0hsieo69?m?16o?ndchv6orceals
+  Oct4-6     -6.6347 [(45, 1), (89, 4), (18, 1), (6, -1), (0, -1), (50, -1)] og5f??rhanam1mr?jepr5h?p7j?dr8n9y3bigemam1xg4asj3?ajc
+  Oct28-31   -6.4813 [(61, -6), (78, 2), (59, 1), (8, 1), (92, 1), (10, 1)] ?esanw?x4?t97mpn8fftescd?2dzd8kereeh07ynp??qv2lottwe
+  Nov1-3     -6.6210 [(41, 5), (29, 1), (24, -1), (7, 1), (14, -1)] yef?ngesit20zh?6?gita43?k06x7y3tu?fj4ieob0?iy9dhatik?t
+  Nov4-6     -6.0433 [(98, -2), (39, 1), (68, 1), (50, 1), (85, 1), (15, 1)] chzwi?0?upeftnipp31yzh1q4?r?mfedurc?achofesumiemeindl
+  Nov7-9     -6.5890 [(44, 4), (26, -2), (89, 1), (99, -1), (94, 1)] xwc8b6?sk70y6ye8?nxd0j57m???4amkraftumusubla?5w6684n1
+  Nov10-12   -6.3488 [(61, 3), (89, 3), (104, -1), (93, 1), (91, -1)] n6tpg?b3nklo??o7j12c??hqh93elherstw2?reinrouveu5zx09r9
+  Nov13-15a  -6.2508 [(87, -3), (44, -3), (16, 1), (53, 2), (37, 2), (81, 1)] m?oungdief??jeprx?r??w?gtgeklug?a?jhv??fnalsesi?d?w?
+  Nov13-15b  -6.4296 [(25, 3), (5, -2), (28, -5), (77, -1), (25, -1), (65, -1)] mpfleeshul0wsannoh8a787u4nnnocw00hp2eop3?mxy95yd
+  Nov16-18   -6.7542 [(37, -5), (97, 3), (25, 3), (16, -1), (103, -1)] ?dtm1i???p1jp?fuhaftl???cu?un?ct?ygv???bwoisp11?x?t
+  Nov19-21   -6.5270 [(87, -3), (54, -1), (62, 1), (54, -1), (62, 1)] qz11lhr9nr?whenh7zjn?rhaftsseff51ixr50yhw05szi5so7
+  Nov22-24   -6.6139 [(95, 3), (70, -4), (63, -1), (38, -1), (87, -1), (95, 1)] nredenofq2al9vw1q?tonurp27ww?c1wp46ah2q??kyf4ekq0q
+  Nov25-28   -6.5237 [(44, 2), (10, 6), (110, 1), (22, 1), (17, -1), (21, 1)] dalii?844f?mkll1m??xm4?bds2g0???d?inahrthindk?xphmerd1nh?
+  Nov28-Dec1 -6.6393 [(47, 6), (76, -4), (54, 1), (2, 1), (87, -1)] ?b1yonj3ethed9yc?k?1j0y?p4?nersern?mje0ypp?ky2t5o8?um
+  CHI-Nov13  -6.1525 [(99, -4), (90, -1), (18, -1), (88, -1), (77, 1), (14, 1)] t?sdast??ggsh?z?poetterbewozuer????s?nkon??i?wz?k
+===== p170 106
+  Sep19-21   -6.7583 [(57, 6), (64, 4), (19, 1), (51, 6), (31, 1), (32, -1)] mx8?lfp?q?2ud??j6i?gtzwe??nmodenw?q?p11mo?ld?f??nc421f1?p??dz
+  Oct4-6     -6.6765 [(62, 6), (79, -1), (0, -2), (104, -1), (53, -1)] z?dt7777rdo??9av3jg6hz?70tb82pfx5?htdaessaat?ya3yb7p9
+  Oct28-31   -6.6205 [(83, -6), (11, -1), (39, 1), (59, 1)] ttlo?96juo09fa4yqe0pf9aj54c0sstsstatt00aa?f43xastf
+  Nov1-3     -6.2366 [(19, -5), (53, -1), (40, -1), (70, -1), (72, 1)] 5?jtbroerunn89hok6twophenevo03f5o9hjorpleemeenfuu
+  Nov4-6     -6.3978 [(7, -6), (80, -1), (40, -1), (34, 1), (27, -1), (27, 1)] 8j3rh3m8gtemh4rwereh2rhobg34yboistod1sbh?40fny?6h
+  Nov7-9     -6.6714 [(2, 6), (91, 3), (93, 6), (52, -1), (20, -1), (31, 1)] pyy?thk?5i?yu?ksk?g4pn??bpv?c8pp??kightgn7??hbeinkop??4um5x6
+  Nov10-12   -6.5758 [(97, -4), (3, 1), (0, -1), (51, -1), (41, 1), (47, -1)] mcm3t444hjungsummew3l9u?qqa6zt8ex?l78j3jqc6q7tr2xq
+  Nov13-15a  -6.5705 [(57, -3), (21, -2), (28, 1), (37, -1), (65, -1), (56, -1)] ?hh?f?pparnielaruh??pd?p?mxp?vp?wo??ihrj?r????h??
+  Nov13-15b  -6.5739 [(8, -6), (89, -1), (73, 1), (79, -1), (82, 1), (83, -1)] q3qnc6bvh?9f6nb1buhrennamd1v2q38ebig?wyq4o3aoq66b
+  Nov16-18   -6.3814 [(95, -5), (49, -1), (60, 1), (74, 1), (48, 1), (38, -1)] gelenmeilto??u??obj???oso2o1?i?dr?i??ke????ppeweipo
+  Nov19-21   -6.7630 [(96, -4), (35, -2), (79, 1), (70, -1), (44, -1), (52, 1)] g088p1kl4q5880m8dufq834g?wb803t?8hp3lndaspol1d3mkg
+  Nov22-24   -6.6214 [(85, -3), (72, 2), (46, -1), (15, 1), (26, -1), (99, -1)] 2?607p6fg7v8?z772pn7a?6r7bletigamumglu7l1q2u2lpc69u
+  Nov25-28   -6.8026 [(7, 2), (80, -1), (20, -1), (46, 1), (22, -1), (101, -1)] rn45nhaftle31mn5n71c9h5c22cs76k?4r3v5d1kv3f?5ct5?sh7
+  Nov28-Dec1 -6.5821 [(2, 5), (57, 1), (30, -1), (9, -1), (86, -1), (75, 1)] hc?cbx?g?6400espeue69g2?lwaengi?ebeilcg?vgq5bdx?e6gz070
+  CHI-Nov13  -6.3297 [(79, 3), (28, -5), (63, 1), (30, 1), (23, -1), (29, 1)] ncandud?twtxw?n?dd?z??eob?x?lanca???ap?ww?nndenintega
+===== p189 90
+  Sep19-21   -6.7379 [(21, 6), (37, 4), (90, -1), (11, -1), (82, -1)] ?nfoller?wm?3x7??24?xq?4qc?1ol?7?w4x3?2ac?m?36lc
+  Oct4-6     -6.5807 [(6, -6), (53, -1), (25, -1), (46, 1), (81, 1), (23, 1)] 4ju5u?8?6j??2hhp?briguteba4apm2a?p9j?4jaga
+  Oct28-31   -6.4523 [(0, -6), (78, -3), (27, 1), (70, -3), (20, 1), (58, 1)] xzn?s?dx?zp?vzt?3?w3htst?y?zn?cavendasah
+  Nov1-3     -6.7144 [(82, 1), (64, 1), (46, 1)] ptst54f53?33?fjk?3??1b7kaf??u666f4o?5?6kusseij
+  Nov4-6     -6.4681 [(20, 4), (59, -1), (41, 1), (63, 1), (65, -1), (31, -1)] ua?8n??i?u?8i6??16?hv1?ollinah?gjuliesi?r4i4z7
+  Nov7-9     -6.7611 [(50, 3), (45, -6), (8, 1), (23, -1), (67, -1), (50, -1)] wiediu4bu?sp4f6x4??6dh?fw0dy?sds?qf?4??jw5
+  Nov10-12   -6.4915 [(6, -6), (13, -5), (0, -1), (64, -1), (29, -1), (70, -1)] 7q298g2q9?gt?rxle?9ycr9t6eyneerdeu12h
+  Nov13-15a  -6.4611 [(11, -2), (56, 1), (38, -2), (57, 1), (63, -1)] j????rw?auretogo?gro???v??ir?n???r?evererr?
+  Nov13-15b  -6.4114 [(33, 4), (16, 2), (13, -1), (5, 1), (94, -1), (6, 1)] ?0?tmun?au?xva?qye?gm0??iy?htwennungeo7nm60?sc??
+  Nov16-18   -6.5926 [(58, 5), (95, 1), (72, 1), (58, -1), (15, -2), (27, 1)] sr1?i?uemtick??cz?1??qi?z1?pc?imitthi??y?i?vc?a
+  Nov19-21   -6.8054 [(44, -5), (33, -1), (66, -1), (65, 1), (59, -1), (69, -2)] f54??dmw9bwd8h?zmondc10s1w?s7mq?hrtd5?wq
+  Nov22-24   -6.7960 [(24, 3), (84, 3), (72, 1), (0, -1), (73, -1)] i?w?mv0ohganga?dj?o?wx1qx?qv?w?vo?8nwg6?9?mv?av
+  Nov25-28   -6.7231 [(3, -6), (51, 4), (34, 3), (50, 1)] 3f?mx?4kd82xv?xk?v88?2t?v?cj?9r?xx???3khandkur
+  Nov28-Dec1 -6.7399 [(12, 2), (32, -5), (0, -4), (41, 1), (50, -1)] ?cj9bw0veseigs5vwx?1byz?me?k9xz?sj?5z2m?z
+  CHI-Nov13  -6.3746 [(74, -1), (59, -1), (44, -1), (77, -1), (81, 1), (75, -1)] ???iekewoweiz??l?wd?hteeina?f??je??????g??p
+===== p153a 132
+  Sep19-21   -6.5164 [(14, 4), (3, 2), (108, -1), (58, -1), (119, -1), (34, -1)] c7jv602?o9ktchinmusgollvommtu6zj97iq?w?l2qbb2lc?q?dida9kbn3p?kg4z32
+  Oct4-6     -6.6267 [(14, -3), (23, -6), (47, -1), (38, 1), (100, 1), (38, 1)] 9wacau8ptparak7d2ui49n3zmd6zrm3zeimpil?4?qkw8zg3afy?e4zickfrai
+  Oct28-31   -6.6781 [(7, 3), (83, 3), (36, -1), (18, 1), (9, -1), (20, 1)] 7?gm2s?fqd?95z3kniroi65dt?zxgs594cl0q8sgj19eornt5g25?qt2deinsdas6fc5?
+  Nov1-3     -6.6469 [(77, 5), (68, 1), (90, 1), (86, -1), (42, -1), (94, -1)] 3z?46ssselik?ortydx99?4rk?xpk8j7xdurfnd1j54ttsemon3zc0q?wkltum5kb?my
+  Nov4-6     -6.7004 [(37, -1), (121, 1), (43, 1), (38, -1), (42, 1)] gq94n2n818rker6g7rji4du3yh8s2?i8b7z3p??6mmi8fherpr2dtdidlebth81uoz
+  Nov7-9     -6.3065 [(46, -4), (3, -6), (75, -1), (43, -2), (113, -1), (115, 1)] 7jx81bb4x64uq4fs3tu2ss4wv56f?bmuedeetockszuisstysplieuezi09
+  Nov10-12   -6.5204 [(32, 2), (67, -2), (3, 1), (11, -1), (26, 1)] xwu4ah?wlewic2??y4dagehenhiegbm?ylq4m1c4bpi5s8v72yno9zq3essd0yo9tu
+  Nov13-15a  -6.3176 [(101, -2), (44, 4), (27, -1), (15, 2), (2, -2), (9, 2)] ?a?ff?xcs??p??v?v?eamgeiu???htzurdiv?uhtnasistfr??ut?tzenfi?ij???pc
+  Nov13-15b  -6.4592 [(52, -3), (116, -4), (38, -1), (100, 1), (10, -1), (75, -1)] 1inm6xu8uwc5tca1f6pmumstenenw5pv8druehz6makla0xom0k07w?zb029a
+  Nov16-18   -6.5579 [(43, -4), (112, -1), (106, 1), (111, -1), (9, -6), (76, -1)] 1?e1g?cheofmiplasi21?n?gdmu1?n?l?2?vi?jk?khw?kjj?moltinszukr
+  Nov19-21   -6.7026 [(76, 5), (28, -2), (58, 1), (120, 1), (122, -1), (66, -1)] etl1atzwoalsi?tlv3nesul?ush80a98y?sdb8g8jk1?ym?1a?vmp?lkishez78smod
+  Nov22-24   -6.5658 [(122, 1), (133, 1), (53, -1), (36, -1), (16, -1), (19, 1)] nnelm4k?wat1magentu65?h5cdv4avoge6t5m7u3yb05vk7m8tanhanym?pkx9a6a9
+  Nov25-28   -6.7184 [(79, -5), (9, 4), (95, -1), (23, -1), (29, 1), (22, -1)] 863vn3yv2f?s?bu3x7pva6?9x23tjf6bnp2517c7eq9?zkeherthad?pq6v2uxi9
+  Nov28-Dec1 -6.7284 [(55, 6), (39, 6), (79, 1), (29, 1), (25, -1)] hw?berfekt??yffivp?1qyc04p?ey?g24elwa?9waskiy?7uesuc1?fb?v8vq?z?cq0t6?j?
+  CHI-Nov13  -6.5936 [(54, -6), (22, 1), (72, -1), (80, -1), (46, -1), (118, -1)] t??v?g??x?uelehr??z?v??zh???enodez??nv?uc???aerf?g????echuhe?
+===== p153b 108
+  Sep19-21   -6.9522 [(42, -3), (14, -2), (59, -1), (31, -1), (0, -1), (43, -1)] ?j8xg?l?d7q?dell?d?2li?9x52?0733h?8s5l?s5f6l?06?x
+  Oct4-6     -6.6489 [(37, 3), (90, -1), (98, -2), (24, 1), (101, -1), (48, -1)] ??y??4?7mj???4?ialbg1???hnichbe3???j5jzy8o4???p414430
+  Oct28-31   -6.8229 [(43, 3), (107, 1), (0, -1), (72, -1), (91, -1)] smz??x??1q8x5?a???x8n5ft??webstit??m84c3n???zn4?2s???7
+  Nov1-3     -6.8622 [(104, 4), (42, -1), (71, 2), (47, -2), (70, 1), (45, -1)] ??ceq???6??9dd???9q?sfrisi?u?85lr69?pp?93?tje?s?19?tw??
+  Nov4-6     -6.6058 [(0, 3), (11, -5), (88, 3), (46, -3), (20, -1), (54, -2)] nr??lu97ll?1?8hlein??jes7?d?llapo?0??ihreg?y?rittu?
+  Nov7-9     -6.7805 [(42, 1), (64, 1), (25, 1), (6, -1), (77, -1), (54, -1)] nwu46?b?7?w8dmd?l?z?b3454?a?n??dp???k?hrwurde?d?7l3f?p
+  Nov10-12   -6.7542 [(44, 2), (24, 1), (7, -1), (4, 1), (25, 1), (61, 1)] vg?4?rtatw?f?l97cs?5?7them?n?7l?4??7?0m????e?1urtonv?yn?
+  Nov13-15a  -6.7271 [(39, 3), (28, -3), (77, -1), (76, 1), (52, 1)] ?r?js???s?enenxe??r??jl?g???u?ttirnu??m??h??d???f?o???
+  Nov13-15b  -6.7184 [(104, 3), (64, 5), (10, -1), (41, -1), (78, -1)] bsu?i???4bv?3???d0y?u???auefai??hleinw??yf??t90?mi??z10?
+  Nov16-18   -6.7297 [(67, -6), (96, -3), (57, 1), (96, 1), (85, -1), (46, -1)] wiea????ehrtos??t?ow1oa????1fstak??m?frw1c?vz??1?
+  Nov19-21   -6.8733 [(2, 4), (90, -3), (35, -3), (51, -1), (30, -1), (76, -1)] n?8?j??1lqj?m?l?dtunc?0?s?5jj?w?o?sblu1?y?7?47?th?i
+  Nov22-24   -6.8102 [(3, 2), (25, 6), (110, -1), (109, 1), (112, -1)] ?hlingam????zoa5gaz????p1vu2?x?5??mp8?4?i?3??xzk?7???l??a
+  Nov25-28   -6.7667 [(4, 1), (31, -6), (65, -1), (30, -1), (78, -1), (70, -1)] k6uhx?f?z2?z9xlx5??k?h?qh83k?e??k?ssundd??4?8?gei
+  Nov28-Dec1 -6.8812 [(42, 1), (96, -2), (85, 1), (87, -1), (31, -1), (68, -1)] ?e?k8s3y?c?kopfs?y?1ixb??w?25vy8?w?ds5bg?1?se?b??x?e
+  CHI-Nov13  -6.7231 [(36, -3), (23, -1), (28, -4), (4, 1), (19, -1), (64, -1)] ??ao?klj??gartek??eidw?v???gk?x?????g?c???wallgk?
+===== p73 178
+  Sep19-21   -6.7188 [(99, 5), (55, -3), (95, 1), (153, 1), (39, 1), (96, 1)] 0ku?x8cbu0ky28?koania9gk3?bbentsnnzuec7qac9q?kpx5odannb?1?tka399i?hxr00sa4l0z?c7m84xz7kk?reb
+  Oct4-6     -6.6414 [(79, -5), (87, -6), (55, -1), (139, -1), (129, 1), (134, -1)] gn3qn?xw0wwkb?utwitengvs?x0wfahrnoo1qublierdx34pw8xvi5txu0m3r0ugb2iawinciblv3ir95u
+  Oct28-31   -6.7744 [(44, 4), (154, 5), (182, -1), (102, -1), (84, 1), (71, -1)] z?858cukh5?jeu?jy?u?1y5?mumn?pfolt1vww?utzewuci?gco98nwj?5iumwasg?tly7o3keauqu2mgqu8o7niu8?j
+  Nov1-3     -6.7998 [(100, 4), (122, -4), (165, -1), (98, -1), (105, 1)] tb?3q431ccc26mx?2m7cc125?cw7sye?46ta67zm64i9wortv6h8v8rongszinmi9?5mari9e7?c2c418c4g?vd0
+  Nov4-6     -6.8057 [(43, -5), (55, -6), (21, 6), (162, 1), (39, 1)] 0xpc5n0puv?n?kk2s29??u05p6t?svv27jm0?n5d5i74?do8jq1ud?7x75s39uo8423a7ap?u?dlxdienssi555
+  Nov7-9     -6.6218 [(165, -3), (24, -1), (141, -1), (77, -1), (78, 1), (129, 1)] 2szlg7lannzy?0bc2seng8?3jgw9achs7arls2w25lakk4lmt6sj2allou5qd?lganiranzd57darisa2jsnz1?
+  Nov10-12   -6.5182 [(33, 2), (178, 1), (52, -1), (131, -1), (118, 1), (38, 1)] p1s7zgv?fq00qzm?ni3go9x?z78ilei5o8p93bf?nndussedi?xx6nwob6keffiw0af?a7nsisa8i76gpienmoisd5
+  Nov13-15a  -6.8630 [(170, -5), (93, -5), (103, 5), (12, 2), (26, -1), (16, -1)] ?bn??????c?u??ikk????b????cd?b??sm?b?????tzc?g??rt??w?r?cassig?stim??zn??f?g???f??x?kk
+  Nov13-15b  -6.6937 [(8, 2), (129, 3), (18, 1), (41, -1), (17, 1), (155, 1)] psx2tlxj291?601bn57?2xw66x0e?exn0k1y?9yf5?1p?tj?1prtetenbeimp07?911?7o9p16j?zt9ev1stdu0llhg0
+  Nov16-18   -6.6363 [(18, -5), (116, -3), (34, 1), (49, -1), (147, -1), (110, -1)] crhxc?j1hb?ymy???u?x?xurammajuantzua?ehaumeausd?bdql?gwehc2ghv???mnk??cr?g?kvhu2nbru
+  Nov19-21   -6.6664 [(78, 3), (130, -5), (176, 1), (63, 1), (75, -1), (63, 1)] webeyv2?rba68g?vn?g?6yex?q7?n?7b7btiguor2a2vjt3fq4yiw5c2c2cgwwxpa08mhinentiehenp?nzinmtbz
+  Nov22-24   -6.7996 [(106, -4), (26, -1), (152, -1), (158, 1), (36, 1), (40, -1)] 4v13s3nj6efgetz?4j?ru1f5kg?09o3473gstradsi9u9n04598y434f8p1d5alw?544gh4oy1ila4y43t0lk1
+  Nov25-28   -6.5602 [(115, 6), (51, -1), (95, 1), (99, -1), (109, 1), (99, -1)] ha0?3s13gayg1a?sagreguepea?60u6gwuerust?fq7pgollsga?bzc6a8a?yl?ahxq63ga5a4?8anweifrm6?0re?g
+  Nov28-Dec1 -6.8218 [(138, 6), (109, 1), (15, -6), (0, 4), (162, -4), (159, 4)] 9kj?y?x?quo?m?k?now?k?m?c3f8c?f?o?tho?tou94tk?k?64ynp8p?s32ltdannhakz99mk4oucos6a5mp5kwhu?u
+  CHI-Nov13  -6.9111 [(126, -5), (49, 6), (10, -1), (17, 1), (20, -1), (138, -1)] gb?dj??hvr??vx???t?xhz??ir?kf?ow?xf????jbi?u??????cdc??l??j?u???rchic???ex?rchk?b??w?ffx

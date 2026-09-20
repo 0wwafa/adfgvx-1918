@@ -1,0 +1,64 @@
+===== p158 242
+  Sep19-21   -6.7680 [(155, 6), (106, 5), (175, 1), (236, 1), (242, -1), (182, -1)] 4jiu0o7ofo?v5zo9lw97l?13?o0maq?p?l3?8fh7fno?xa?p6u?cfol4j?7079moa775?43vcg4k77iimanfolufliebenaf104m34n5pi?l0?hnima74?c6?uwa7r
+  Oct4-6     -6.7840 [(226, 6), (162, 4), (48, -2), (77, 1), (222, 1), (153, 1)] wcx?5xup?p99ii?4ox4?cvp6i?91id?cdv?k?642??9atsachsae?8a4b9nx4pk?5c66254umpt6wx66k?9b?jcw6cwp?6fcm9ghcr4zun62m4datg6c7uguetatsc
+  Oct28-31   -6.7809 [(123, 5), (53, 6), (52, 1), (224, -1), (209, 1), (173, 1)] rj?m5fqq7nd?v55zs2du?dg5zvn2q?m?7d?3zy4dtac?na0cx5yi?ccagurzz?d0a?updd?di5?13ktduitpa4c5hulud?zyuz8aauandavg?vy?bdanmora?q7ldk6
+  Nov1-3     -6.8319 [(146, 6), (0, -1), (53, -1), (119, -1), (117, 1), (65, 1)] q4s?mieneesssexx?htew?nmhc3w?sd?b5esm?ce?jrb6xh878?us4mb3km?yrkr42s5y?34skamsr4vhcp9sb83viip4kcf3rw933xm6sq526kkh3epe0hgsj8
+  Nov4-6     -6.8199 [(175, 4), (65, 1), (190, 1), (183, -1), (184, 1)] f?8hli3mnif5j?uilan58?b5i8q8fv?2588qbg?5b6ua43a8hu6uzulenig89u4rug?r2v78druc2pp6u?rh5f5ig26u58g95r6464wg8y2?bn903bx?8fvzugsi
+  Nov7-9     -6.7037 [(179, 5), (61, -6), (69, -3), (115, -1), (236, -1), (198, -1)] x4tsglo5fueleae42q045rere01inhi?qftqod2dt?5xwtan0hr?kqg0cx4er?adr4dlsir?xkfleget65esoehnedigz?uxhxf1ykk?fxeufuek0gdgl
+  Nov10-12   -6.6590 [(142, 2), (35, 3), (1, -1), (65, -1), (56, -1), (156, -1)] tqf7x5qmy2fb2likenerdinzuih7w2l2wn?wn29e9d?ym?2g9a?dc?rw2kkcd3enetwwwmmk29ai22d2cv9kknu25tworkaedg89sia?f8wy2u0?qpd52jm8q
+  Nov13-15a  -6.8069 [(93, -6), (13, 3), (149, 1), (137, -1), (45, -1), (61, 1)] ??ppe?t?o?j?ztug?ji??gj?rg?tts??z?ct??to??n?n?agez?ppfun???neszc??gufatem?k??poc??ktk?p???nz?tesfaeftotg?h???f???o?cg??
+  Nov13-15b  -6.8674 [(162, -6), (73, 1), (199, 1), (119, 1), (33, 1), (68, 1)] kx?gteky8p9j8607qvx212fvg1xec4?jxg2ac4aj0atca3zyt?kogp04q?bankaiwankmx21kvt1xmgk99ix05kachwx4ptx?2zc9az5?mne62vgo?wr6tqx
+  Nov16-18   -6.8968 [(197, -6), (86, -1), (112, 1), (234, 1), (44, 1), (9, -1)] kpk?k1?bib?2di??ekrebr1mr2roqu?1mvv112z?vu?dcv???v?pbv?2luchxh??1vkp?h?lv???2h?r2bbs??2o?jr?oblh121?txg2v2?yrt2w?v?jkk
+  Nov19-21   -6.8217 [(211, 4), (45, 1), (151, 1), (138, -1), (150, 1), (110, 1)] lbschbatattftsssoa3i?dh1fd?mc7?oozy1?1d63xeadf?v1d1d8mdg?g4ks1y1ynyd1zvv1ky?vg2kg2y?y?4p3inahmm3aa0bba2a5pqv4?bivn2vyl9kk1dv
+  Nov22-24   -6.8150 [(219, 4), (136, 2), (134, 1), (193, 1), (7, 1), (182, 1)] apw?9simziv?div4w2?0dv?0j4ijc?0v4ga00ezuwugiva25w0wettsim64wcw9ktgi19fph60lj26uti?x?uw2jcq50uo?wvi28cj2iw?rcv8??g8i4?ljuensovv
+  Nov25-28   -6.8965 [(229, 3), (0, -1), (18, 1), (66, -1), (232, -1), (107, -1)] d156ppelx7f9da9rrofreed2f5tm3r31oa3223629rxn0m9?t15a436g3w?762c3?q311dfn3vn?aaq4mm6a4qg?6?5f9at6nmnugg32ay3fxg3s8a417e9y3
+  Nov28-Dec1 -6.8272 [(186, 6), (239, 6), (252, 1), (102, 2), (119, -1), (130, 1)] khwa??j6jva4?z5o?afy?p85a4fj?ro3jakj?xqreeas?v0e3hy0v8g?vgh9jgc?9fo?j8a9jza?9k990aechterih3iop?0vyv8wn?rhoek?i?djaj0sg?xzj9k3f?m
+  CHI-Nov13  -6.7773 [(39, 5), (118, 4), (216, 1), (101, 1), (173, 1), (149, -1)] c?pn?ztenzc??cv?n??oc?ih?????p??e?jxw???anneffn??r?jjn?t??j?w???????zn???z??g?cf?ez?g?zv?ie?n?rrndezerf?fji??aj?jj?x?fhub?f???
+===== p198 165
+  Sep19-21   -6.6070 [(152, 6), (86, -2), (34, 1), (61, 1), (121, 1), (83, 1)] 0rv0cz?rcem73wimp?rerinm7mittwoh?07cxt9mutali?uwswr4??6x?j2sdeser65?rtsb?lqsg3?lqtg50v
+  Oct4-6     -6.6520 [(6, -1), (65, 4), (103, -1), (114, 1), (124, -1), (128, 1)] ofitaer6xbxoalllebh51s8zm0a01m99ji3vk8tsglochat?8a7mvfi2jg?29?kswogi7?xfv9204444?l0y
+  Oct28-31   -6.6681 [(84, -4), (62, 1), (49, 1), (55, -1), (75, -1)] 4n2kdigmallmallog003bnmdz6jz9617zd41?gwp7v8usd1jabxc8w35k7m0d78nrosaeml7z3?hdn6h
+  Nov1-3     -6.7748 [(30, 6), (170, -1), (24, 1), (45, -1), (41, 1), (26, 1)] dfut12ash?iq9tetamthep2gf36hy53kwn3q4bx?3hiq51qt?b42d622???0d3vtesh?qfm2fa1d??w6otzeal
+  Nov4-6     -6.7205 [(3, 5), (48, 6), (93, -1), (69, 1), (97, -1), (106, 1)] i2i7?feanb3a?x6s38a?4?bstwaha?n6k6aop?hnxa2dff?ia0hxk1?maw84k0v?qc?u?6niia?mmfangec?cog9
+  Nov7-9     -6.7819 [(0, 4), (83, -1), (40, -1), (136, -1), (141, 1)] 9m?b76vdy4ok?bxl79i03h?ochow1svk?ut2ofw9odeme4bse5q5cub9x9z6u158hsk?ochhab75h5ft690
+  Nov10-12   -6.6714 [(86, -3), (39, -5), (24, -1), (80, 1), (78, -1), (71, 1)] qxsp5crnebej80cv?ptr9172k5?myr40bm0bvph282vu5yq71eritgelrenss8y186epy228q600sx
+  Nov13-15a  -6.4381 [(39, -6), (107, 6), (82, -1), (132, -1), (136, 1), (132, -1)] bcv?vce???chk??ekaumdag?bwc?fja?k?i?e?hss?v?fs???goisekoeree?a?b??ktbenwal?dunon?
+  Nov13-15b  -6.6776 [(44, 5), (38, 6), (28, 1), (107, 1), (103, -1), (124, 1)] nortw2p7l4el?ky4wx4vielouseuehrku7gv7nbac7j7lw5q??qbv??v??xfccn6??z09ai9??pjq7ec??lg4ngn?
+  Nov16-18   -6.8390 [(0, 4), (149, 1), (30, 1), (80, 1), (107, 1), (0, 1)] 1??m?y1rqk?ap?1fd?zk?yp?fk??z?z1ql?qa2??zdesagrigmz?urp?n?djb2izc?x?qk?wko?e1xj1atu1?fk
+  Nov19-21   -6.7639 [(100, 3), (50, 6), (128, 1), (138, -1), (149, 1), (85, 1)] 8p?cth?392lt?i65iz1u?i?dkj0pdk?p?4o3nd7j?814g6dompeinwy2nj1sn411g?7w?mj9ookok??qwuddeutu
+  Nov22-24   -6.6473 [(3, -4), (35, 3), (29, -1), (104, 1), (118, -1), (10, -1)] ?1qa?u1p0pl3a7mk6inwatierrhex7zae9ea82vep0kgr65k5b8w8bk315pidehr?kn6hp60u8y?ehrgr
+  Nov25-28   -6.6956 [(70, -5), (1, 5), (80, -1), (130, 1), (122, -1), (98, 1)] x86mrreufteej1?yj1ss8?pd32?pr3jdblosu?4f6npx24uvs?0f4mym2uv??nj0fid3z4heihenr86tdl
+  Nov28-Dec1 -6.8001 [(10, 4), (161, -1), (30, -1), (46, 1), (43, -1)] sw?ww3zhce?93tzuue?yvnm0j3?il?rs5slm3dnrasci27zc9wzefeltd1seobi2q1q9i2rmo2zls0nhi9t
+  CHI-Nov13  -6.5593 [(138, -5), (106, -2), (92, -1), (55, -1), (66, 1), (63, -1)] n?hi?cjcw?ug??kd?eeigien?k?nuisu??enzoesungcheiva?p???z?hn?z?w?u??fk?jd?k?????
+===== p217 170
+  Sep19-21   -6.7494 [(133, -6), (8, -1), (64, -1), (70, 1), (66, -1), (96, -1)] l9jo6d3piw5ww7xd5oht5iuk6rw5wixb5lw?r19d5hu5my0ultagwi9uc9j3rlf4densowa5pv9jy5wk
+  Oct4-6     -6.7886 [(148, 6), (80, 4), (101, -1), (17, -1), (116, -1), (108, 1)] 8u37j3h??4h6pqq3r2??fj3?qckauhe73xw2bonihnno9f0h?396fhi1q0y?x3yhp98n6c??hnaanezv3??sif87j
+  Oct28-31   -6.3911 [(117, 2), (90, -3), (42, 1), (124, 1), (98, 1), (108, 1)] dweiti89dr3k?x8t4448p6?zg5io?m7??xjq9yersos877i?74ouerz9dhisfof5rthinirs45ycu9tssierlu
+  Nov1-3     -6.6524 [(3, 1), (31, 5), (119, 1), (112, -1), (52, -1), (69, 1)] ur0z0mmle0oq9pk35ajohm6u9zuri?sjs??iucw?listo3mt?u2rink9zi?rkuesr27?5y2y?nzeitnai9kcr30j
+  Nov4-6     -6.6818 [(141, -1), (93, -6), (49, 1), (100, 1), (92, -1), (32, -1)] unl78rvul880?dd483o?nehmetuliseeiu1h7hk1iwuchry50j2fd7uaz7gux4u4wrr1w5j11v511fh6t
+  Nov7-9     -6.7753 [(92, -3), (20, 2), (128, 1), (35, 1), (151, 1), (75, 1)] acemaunf0n82d?trerup48n6mp233ua5d4w?xacle5tr4?r5gkz0impl?z5u5m09xv3bpj3p6mpag3y4h?u1pw
+  Nov10-12   -6.6422 [(149, -2), (34, 1), (27, 1), (108, 1), (113, -1), (111, 1)] etdu45goc?g05ob0laa294c722d2ka7?c?ttansllacosendig?3532hassi33o0cd6e7acr02cu4yz8brz4w
+  Nov13-15a  -6.7560 [(22, -6), (135, -2), (26, 1), (44, -1), (55, 1), (135, 1)] n????vmt?kv?zn?kehmj?????z?zv??giesv?jxk?p?v?artu??mjv?au??l????j?xbeshori?ahatmp?
+  Nov13-15b  -6.7946 [(155, 5), (33, -2), (39, -1), (107, -1), (62, -1), (159, -1)] 25ok0mv1rz1y05io10bw?eh44naw?862l4ib?uh679jp?bzk8dj4?a0nin10h298ak2nhanninmu92jkf2fh
+  Nov16-18   -6.8030 [(108, 6), (60, -1), (124, -1), (10, -1), (104, -1), (59, -1)] wrw??dv1f?ct??hlauxbonnef11ny1l?hoi??1ps1e??s?gz?nb??gu?i?vnn?oiv?k?g2s?2i?h??uzg?c??
+  Nov19-21   -6.6653 [(47, 3), (171, -2), (132, 1), (117, -1), (127, 1), (129, -1)] 9iaq2l5gh76l9ds7wcvwq?3imelonnslex8ey4sz021aq9nv?matd91xf8?0isfl8?7i?aalleaug9any0qql
+  Nov22-24   -6.6668 [(126, 5), (164, -1), (66, 1), (93, -1), (31, -1), (167, -1)] dt2qs7a3?r7p2p082xj?amezlg5smx?s2u0hep54q?n?5c4qf9xs?c7s2vlgn2t9rpiesumn4eorchesmav7kq
+  Nov25-28   -6.7802 [(166, 5), (45, 5), (84, -1), (14, -1), (13, 1), (86, 1)] q70a?7zh??qa8h8v?pu?rihrenu?zmq?3n2d928m3v?m9khup73aho6fqb9t5hapot?qsz?h3ddiedvjm?g65wb?bc
+  Nov28-Dec1 -6.5891 [(113, -2), (85, -6), (154, 1), (89, 1), (16, 1), (23, -1)] 7777an154ooq?zas0ikbesabedabg5es0mo8o526b7v23026iz?q55ozuhorermk?pggp36gf82w747s2f
+  CHI-Nov13  -6.7274 [(4, -2), (100, 1), (89, -1), (80, -1), (156, -1), (162, 1)] d??rj?a?a?g?x?r?ndfab??l?hf??xk??r??tubb?r?k????sarausart?g?ize?sbo??jthof?nr?zhwol
+===== p176b 220
+  Sep19-21   -6.8139 [(74, 5), (206, 2), (171, 1), (138, -1), (109, 1), (98, 1)] 87rzlr?nsnov3njx0?wxn0a6znx7?vj1kzq73xr?ix16xq?5i6?vx07xfoe1??dg?r90f4nsde4mtglideldda48ft9pausmc48cfwn2q77q4qc?te
+  Oct4-6     -6.7304 [(182, 2), (49, 5), (13, -5), (153, -1), (32, -2), (16, 1)] s9b4?bj8pd094bl?ao67b0onindcvpua078jr?d08mnd9k7o?sgj5j43hkv?ugjq5ju0qv?6qf2u?uyjv?zgietaufavergam5anprieub0426
+  Oct28-31   -6.8052 [(109, -5), (84, 1), (60, 1), (187, 1), (175, -1), (63, -1)] ?sjl?j3v7p66ekfg15ssemlimra04hrn91tj0416n9zbc0?gkxb9achlagn8jjtbungg469hq6nujdp05fwntdu89dc1lvu7x3zp1tnm3iyz
+  Nov1-3     -6.7550 [(9, 6), (104, 6), (69, 1), (82, -1), (174, -1), (44, -1)] 5ibp677?3sa4x33b?7r69e6h8i?aph7h3olittamdeidutc8w7nu7qz6helebt6kt?tryw?yf4o?up4dpk65?02cml3?6a?7xku4?ga?b86r9b?je?8
+  Nov4-6     -6.7776 [(138, 5), (0, 1), (151, 2), (39, 1), (89, 1), (181, 1)] si7?1lktp7j9o4scvs6zs6d3zma4f508?67?qtgpn?7yt?h5yc3z6?k6livi7t?s44mn?u?oachenoy?rstwishex7vz4p5ob9k0lgu8?ddhr4sihrz
+  Nov7-9     -6.7772 [(187, 2), (73, 1), (172, 1), (123, -1), (84, -1), (81, 1)] atil5ddc06nlb6j338v7dhsd?49zvx6br?jj4i29n9wnfrentvib1joutaf1y?njs7qwwv05y48hstheumk9fb0x5ruw3bfu9?xrrf1inbl?hcm
+  Nov10-12   -6.6105 [(157, 5), (97, -2), (9, -1), (185, -1), (76, -1), (65, 1)] 9t5ajm0dsnwtn60d?5lz1x9i?04q3n94?gdjj2gt?0tmmexv?0vl9n18tfeleberd6v9e21heertwu13nnmetztb6x1e1r?ve3qe3qusannhow
+  Nov13-15a  -6.6166 [(45, 6), (70, 5), (134, -2), (221, 1), (205, -1), (223, 1)] pk?pc?bt???l?pwv?g?o?d?????e?woe?z???r?h???lworl???x?k?pmu?jme??e??gzogelli?p??tzeranr?rituerstle?b?r???p?gzu?g????
+  Nov13-15b  -6.7991 [(163, 3), (36, 5), (0, -1), (202, 1), (11, 1), (97, 1)] hjwb36lrvie2yxz0ms8d?nowagtno6u80gesa69p1t0o06ux5yy8yk7u1covemwu3vot4m?0zm93gt?ken6z?5?csh???a?y73vz?i?i72kk1erdump
+  Nov16-18   -6.7470 [(85, 4), (49, 1), (26, -1), (76, -1), (66, 1), (22, 1)] ??j??fix2?eo?p1gcr??rb?yb1?pds?pb?t?m?lw?l?zk1swu?rd1rsefic?hmadega??f?g2?llv?mblam?qc?r?2tenackja?qko?yc?cxi1cg
+  Nov19-21   -6.8194 [(70, -2), (27, 1), (107, 1), (129, 1), (131, -1), (136, 1)] 1jc3dbogzt2b5qzb906grdgew877d2pnipw1xctq?hkoennotch?xlhtst6r9hk3265t3jq6h8rutb7c1dh?zhd?q11mw2zeskl2187y4jw19e
+  Nov22-24   -6.7617 [(133, 6), (49, 2), (100, -2), (27, -1), (38, 1), (6, -1)] kb?j6dr61383a?w66cuo9yxp?1itt7j9zba?1x7bft4i8q?pnz1doardasbr519zva8aeunimskw8adv8ht8mwu?8t29caph9?apiearak?x?i58
+  Nov25-28   -6.6707 [(98, 6), (108, 2), (4, -5), (161, -1), (195, 1), (160, -1)] 4x1lzv?6l3x?5ayoq?p58dgerlobtsk7n78j4v6def8lr58nmorhardesf8f4eo75xx918r?ixh?j285lr?0jf?itruheq?6r9dk98cff?y8fas
+  Nov28-Dec1 -6.8061 [(58, 6), (30, 5), (3, 4), (114, 1), (144, -1), (55, -1)] yl3if2mv7l3q83t65l3e2k25rhonitz?s7lbemy??nsstwy??vka6w7??4gkv?yy?htkv?xy?saus?hdlesey?jbb0cxa?48c0?lr?xr58odasx9mpatr
+  CHI-Nov13  -6.8207 [(124, 4), (77, 1), (51, -1), (44, 1), (163, 1), (185, -1)] v?dnf??hx?bv?f?sb?hf?knkwa?llp?g?????ta?reif?j?????gpw?cegr?b?cp??xeo?jew???b?gh?eubedg???uichfinou??xu?cw?c?x?z

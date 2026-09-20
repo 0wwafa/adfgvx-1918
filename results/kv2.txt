@@ -1,0 +1,35 @@
+===== p73
+  -6.5875 Nov7-9/swap8,13        -6.5875 p1=152 d1=-3 p2=-1 d2=0 2sz0g7lanizy?lsliseng8?6jlw9achs70ak32wr5langlemtpsj2lancu5udtl12obranzj5jefoisa2asgm7r
+  -6.6544 Nov7-9/swap6,12        -6.6544 p1=101 d1=-3 p2=-1 d2=0 2szllchanizr?2i3azeng7?palstache7lrk12wr5zagxlaytpla2czn3m5uatlifogranla57nffisabfsy377
+  -6.6594 Nov7-9/swap3,13        -6.6594 p1=164 d1=-3 p2=-1 d2=0 2lz0g7sannzr?lblisengo?6jgp9achs70r0s2w25lank3lmt6sf2lla7u5udil1a1tranza5jda7isa26sgz1r
+  -6.6616 Nov7-9/swap5,8         -6.6616 p1=101 d1=-3 p2=-1 d2=0 2sl0ccsanizr?ag32zeng7?3llwtache8cckg2wr5zdnellytpla2lzn8m5uatsgsoiranlahj1foisabfl167m
+  -6.6691 Nov10-12/ins16r9       -6.6691 p1=54 d1=2 p2=-1 d2=0 s7qu55pkgad1kdj?mvxg?snd?vnbn?agbifa0o30ng026x51msr6i6ajnwinnsuiv5ydpyserl0ivi5ediandenand
+  -6.6979 Nov10-12/ins15r9       -6.6979 p1=54 d1=2 p2=-1 d2=0 s7qu55pnwad1kdj?qvxg?snd?nnbn?agbifa0o30n9f26x51ms36i6ajnwinnsuiv5yspyserl0fni5ediansenand
+===== p198
+  -6.6849 Nov28-Dec1/ins14r5     -6.6849 p1=128 d1=-3 p2=-1 d2=0 ai9ynrruuz0rcstud1wmw20lv49pm0zums91mruelirduservesmyz5fzd068cn8c0xg8wjz3i3yxa09x
+  -6.6920 Nov13-15a/ins15r14     -6.6920 p1=102 d1=2 p2=-1 d2=0 a???v?g?natousa?pteuk?mg?dpw?u?mbr??r?x?h?zj?g?ono??lpd?useineincgba?ks???mcmp?bgaw
+  -6.6942 Oct4-6/ins2r12         -6.6942 p1=41 d1=-3 p2=-1 d2=0 pqqxivelurunmalfgd5y56lgt9fak5fkternt4lm91alluet4svp6plkn2or5160y4sekiktve54pa7g4
+  -6.6995 Nov13-15a/ins15r17     -6.6995 p1=149 d1=2 p2=-1 d2=0 atg?vp?vnatousa?etruk?w?od?cvu?mbe??r?xuh?zlga?auo??lpb??sbineinc??aezt??emw????gaw
+  -6.7064 Nov13-15a/ins11r4      -6.7064 p1=149 d1=-2 p2=-1 d2=0 ucat???csurm?ltb?fa??cak?bip??pgu?eort??u?a?kg?u??dic?hretcerlicasba?e???la?idn?u
+  -6.7150 Nov13-15a/ins11r6      -6.7150 p1=151 d1=-2 p2=-1 d2=0 ucat?c?c?drm?ltb?fa??cak?bxp?s?gu?eorp???ta?kg?d??mnc?hretwerlicasba?e?r?la?idnau
+===== p217
+  -6.6133 Nov10-12/ins5r12       -6.6133 p1=67 d1=2 p2=-1 d2=0 otinlandz4zuhi4v75h82hyke3o4otp977lemiefgut3l53u3sdhteitittz?iawoaf0h?lc7427p1kcu4o58l
+  -6.6707 Nov16-18/swap7,9       -6.6707 p1=113 d1=-3 p2=-1 d2=0 ?ne??2?cy2t?gi?uag?vo??gethi?1iahnliku??gb???2o?dnwari2uto?as?qpd?dc??swiehie??wgw1
+  -6.7089 Nov10-12/ins5r13       -6.7089 p1=61 d1=3 p2=-1 d2=0 itonlandz?zshi4v7z?g2hyke3?44tp977m16iefgutpl53u3sdetwitittzti5woaf0ctlc7427pck4u4o58l
+  -6.7305 Nov16-18/swap2,7       -6.7305 p1=105 d1=-3 p2=-1 d2=0 ??eh?2?cy2w?gk?uag?vn?twethi?vimanliku?hgbd??2o??ni?ci2uto?az?qpd?do?josiehieu?www1
+  -6.7309 Nov10-12/ins4r13       -6.7309 p1=67 d1=3 p2=-1 d2=0 itanlandz45jhi4v7zhn2hyke3o44tp977meziefgut36a3u3sdetkitittz?fiwoaf0c?uc7427p?ocu4o58l
+  -6.7310 Oct28-31/ins4r9        -6.7310 p1=50 d1=3 p2=-1 d2=0 rw338humsast6os8tr3qrw54snrrsi597d1xfq7i8hh29zl?mik2h0uey?rdmindba?srmtupirsceusraxh43
+===== p158
+  -6.7934 Nov7-9/ins10r12        -6.7934 p1=0 d1=-1 p2=-1 d2=0 2wsdu0l5xte40eaexbijxep1cgx4skoroesexcgahhi20hu1pdtc04orhk0aesba1hthe5l2gxz200teudenry3g00hxh5xre5djkfrauihh?stmamsi2un?
+  -6.8171 Nov7-9/swap8,18        -6.8171 p1=174 d1=1 p2=-1 d2=0 lfb2ter0fuebelw06706tu3fh41tdhz?quxcyntenohdatdd0h0uhxkxfk0xu3d1e0cesgx0xft3ille9le?tlongeime?fxcxaiug5i1xayaurgkereqe8
+  -6.8224 Nov7-9/ins15r7         -6.8224 p1=21 d1=1 p2=-1 d2=0 ?xbysp1kteklaf00g5uf0xuehleovis00m5gt5suk4zlxau0nfelntexa5mdiltemjeu2a30yfstihd0l1sd0kle1xxjh5vl20vlx?u6u40xofgs0zhktdq?
+  -6.8224 Nov7-9/ins11r13        -6.8224 p1=0 d1=-1 p2=-1 d2=0 twsduel5xte40eaexbijxep1cg54skorhese52gahh920hutpdtc0vorhxlaesba1hth05l2gx52002eudenuy3g03hxh5xce5ddifrauihh?skmamsilun?
+  -6.8318 Nov7-9/ins10r13        -6.8318 p1=0 d1=-1 p2=-1 d2=0 twsdu0l5xte40eaexbijxep1cgq4skorhesekcgahh920hukpdtc0vorh00aesba1hthe5l2gx52002eudenuy3g0rhxh5xce5dnkfrauihh?stmamsilun?
+  -6.8347 Nov22-24/ins9r6        -6.8347 p1=1 d1=3 p2=-1 d2=0 iaij9spitett8n5?pctk8jigj75?t9uvdu4wdt?wh247unpa69ia3v90tvve4461hujv22o5ckiefp2giensv?jwfwiedng8?v0pzma74wpw6v2jf4124c7vt
+===== p176b
+  -6.7661 Nov13-15a/swap0,13     -6.7661 p1=73 d1=1 p2=-1 d2=0 k?p?n?p?rwue?bc??oa??e???hsenk?xbl???r?he??lo?mzwp?rpd?gb?djjg??vevoho?rgru?t?k?arrgtenhi?e????k??v?ehempagj?t
+  -6.7919 Oct28-31/ins3r1        -6.7919 p1=68 d1=3 p2=-1 d2=0 ?ozl3a15du4annvinlaf5fgpqb00mah27mp4jpj4s2eomo0m87itgraal48r11db9r47sx8jd9cz0yenaugaypb8pnu1huzu7?nnstosvl6?nti
+  -6.8070 Nov13-15b/ins1r2       -6.8070 p1=7 d1=1 p2=-1 d2=0 3i6fot61e1b6rokungdpaxwaybto980c0eyjn6uy1yw3assel0rgrapenkauz8x?gfbgygb82s46byzkaligeuifx5oq0afm8ztcd5myrm7uz7
+  -6.8079 Nov13-15a/swap4,11     -6.8079 p1=57 d1=1 p2=-1 d2=0 g?n?nvbn?jfeibc?b?lwt?v?c??o???xal?zheckge?l???r?hrendg??zdpd????ov?wjjr?rpc?ozofgegunn?m?a?t?tighi?gh?m?mg?b?
+  -6.8084 CHI-Nov13/ins7r10      -6.8084 p1=166 d1=3 p2=-1 d2=0 w?b?eedeacc?xfp?k????????z?l?bv?x??oog??n?d?ku?lgdc?j?npenudes?j?d???ked?dae???od?x?g???pws?e???fxd???d??rnsic?
+  -6.8141 Nov13-15a/swap3,14     -6.8141 p1=84 d1=-2 p2=-1 d2=0 g???n?bw???xjb?rbeskunv??h?e?ogesloth?ourifl?f?ecj?ipd?e?cb?lbb?mevcwh???rt??ckogogg??ncj?gj??pfg?mtehrmt?g??
